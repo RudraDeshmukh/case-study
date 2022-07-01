@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+.test_image_and_result{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+hr{
+    color: blueviolet;
+}
+
+li{
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
